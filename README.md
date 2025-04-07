@@ -10,10 +10,10 @@ Check out the live demo here:
 ## Screenshots
 
 ### Login Page
-![Login Demo](Bayut-Real-State/src/assets/demo-login.png)
+![Login Demo](./src/assets/demo-login.png)
 
 ### Home Page
-![Home Demo](Bayut-Real-State/src/assets/demo-home.png)
+![Home Demo](./src/assets/demo-home.png)
 
 ## Features
 
